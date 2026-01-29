@@ -108,6 +108,6 @@ This repository is intended for:
 
 This project is open for learning and personal use.
 
-
-
-Just say what’s next.
+## Author 
+Shloka Kamdar 
+2025
